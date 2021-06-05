@@ -91,12 +91,12 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  bio              : "Student, <br/> Information Technology, <br/>  I’m interested in C,C++ ,Java and Python language."
+  location         : "VietNam"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TunPlus6"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/TunPlus6"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tuanpluss02"
